@@ -1,0 +1,60 @@
+{"id": "q01", "query": "What is the maximum flow rate of the VX-400 pump?", "answerable": true, "expected": "400 liters per minute", "pages": ["MAN-001 p.1"]}
+{"id": "q02", "query": "What material is the VX-400 pump housing made from?", "answerable": true, "expected": "316L stainless steel", "pages": ["MAN-001 p.1"]}
+{"id": "q03", "query": "What is the maximum operating pressure of the VX-400?", "answerable": true, "expected": "12 bar", "pages": ["MAN-001 p.1"]}
+{"id": "q04", "query": "What is the rated motor power of the VX-400?", "answerable": true, "expected": "15 kilowatts at 2900 RPM", "pages": ["MAN-001 p.1"]}
+{"id": "q05", "query": "What is the minimum suction line diameter for the VX-400?", "answerable": true, "expected": "80 millimeters", "pages": ["MAN-001 p.2"]}
+{"id": "q06", "query": "How long can the VX-400 run dry before damage?", "answerable": true, "expected": "30 seconds", "pages": ["MAN-001 p.2"]}
+{"id": "q07", "query": "How often should the VX-400 mechanical seal be inspected?", "answerable": true, "expected": "every 500 operating hours", "pages": ["MAN-001 p.3"]}
+{"id": "q08", "query": "When must the VX-400 mechanical seal be replaced?", "answerable": true, "expected": "every 2000 hours", "pages": ["MAN-001 p.3"]}
+{"id": "q09", "query": "What is the normal bearing temperature range for the VX-400?", "answerable": true, "expected": "40 to 70 degrees Celsius", "pages": ["MAN-001 p.3"]}
+{"id": "q10", "query": "At what wear ring clearance must the VX-400 wear ring be replaced?", "answerable": true, "expected": "0.5 millimeters", "pages": ["MAN-001 p.3"]}
+{"id": "q11", "query": "What does fault code E-17 on the VX-400 mean?", "answerable": true, "expected": "motor overload", "pages": ["MAN-001 p.4"]}
+{"id": "q12", "query": "What is the thermal capacity of the HT-900 heat exchanger?", "answerable": true, "expected": "900 kilowatts", "pages": ["MAN-002 p.1"]}
+{"id": "q13", "query": "How many tubes does the HT-900 have?", "answerable": true, "expected": "120 stainless steel tubes", "pages": ["MAN-002 p.1"]}
+{"id": "q14", "query": "What is the maximum operating temperature of the HT-900?", "answerable": true, "expected": "220 degrees Celsius", "pages": ["MAN-002 p.1"]}
+{"id": "q15", "query": "What descaling solution is used for the HT-900?", "answerable": true, "expected": "5 percent citric acid, 4 hours at 60 degrees", "pages": ["MAN-002 p.2"]}
+{"id": "q16", "query": "When should the HT-900 be descaled?", "answerable": true, "expected": "annually or when approach temperature rises 8 degrees above baseline", "pages": ["MAN-002 p.2"]}
+{"id": "q17", "query": "What is the bolt torque for HT-900 gasket replacement?", "answerable": true, "expected": "85 newton-meters in a star pattern", "pages": ["MAN-002 p.3"]}
+{"id": "q18", "query": "What is the SIL rating of the SC-50 safety controller?", "answerable": true, "expected": "SIL-2", "pages": ["MAN-003 p.1"]}
+{"id": "q19", "query": "How often does the SC-50 execute its safety program?", "answerable": true, "expected": "every 10 milliseconds", "pages": ["MAN-003 p.1"]}
+{"id": "q20", "query": "What is the maximum cable length for SC-50 safety inputs?", "answerable": true, "expected": "100 meters", "pages": ["MAN-003 p.2"]}
+{"id": "q21", "query": "What are the SC-50 relay outputs rated for?", "answerable": true, "expected": "6 amps at 250V AC", "pages": ["MAN-003 p.2"]}
+{"id": "q22", "query": "How often must the SC-50 proof test be executed?", "answerable": true, "expected": "every 12 months", "pages": ["MAN-003 p.3"]}
+{"id": "q23", "query": "What do the lockout-tagout lock colors mean?", "answerable": true, "expected": "red electrical, blue mechanical, yellow pneumatic", "pages": ["SAF-001 p.1"]}
+{"id": "q24", "query": "Which form documents the lockout-tagout steps?", "answerable": true, "expected": "form LOTO-7", "pages": ["SAF-001 p.2"]}
+{"id": "q25", "query": "What defines a Level 2 chemical spill?", "answerable": true, "expected": "20 to 200 liters", "pages": ["SAF-002 p.1"]}
+{"id": "q26", "query": "What is the evacuation radius for a Level 2 spill?", "answerable": true, "expected": "25-meter radius", "pages": ["SAF-002 p.1"]}
+{"id": "q27", "query": "How fast must the spill response team arrive?", "answerable": true, "expected": "within 10 minutes", "pages": ["SAF-002 p.1"]}
+{"id": "q28", "query": "When must incident report IR-12 be filed?", "answerable": true, "expected": "within 24 hours", "pages": ["SAF-002 p.3"]}
+{"id": "q29", "query": "How much annual leave do full-time employees accrue?", "answerable": true, "expected": "2.5 days per month, 30 days per year", "pages": ["HR-001 p.1"]}
+{"id": "q30", "query": "How many unused leave days can be carried forward?", "answerable": true, "expected": "10 days", "pages": ["HR-001 p.1"]}
+{"id": "q31", "query": "How many sick leave days per year at full pay?", "answerable": true, "expected": "12 days", "pages": ["HR-001 p.2"]}
+{"id": "q32", "query": "How much parental leave for the primary caregiver?", "answerable": true, "expected": "16 weeks at full pay", "pages": ["HR-001 p.3"]}
+{"id": "q33", "query": "How many days per week can eligible staff work remotely?", "answerable": true, "expected": "3 days per week", "pages": ["HR-002 p.1"]}
+{"id": "q34", "query": "What are the core collaboration hours for remote workers?", "answerable": true, "expected": "10:00 to 15:00", "pages": ["HR-002 p.1"]}
+{"id": "q35", "query": "What is the home office equipment stipend?", "answerable": true, "expected": "500 euro every 3 years", "pages": ["HR-002 p.2"]}
+{"id": "q36", "query": "What is the load rating per beam level for pallet racking?", "answerable": true, "expected": "2500 kilograms per beam level", "pages": ["SPEC-001 p.1"]}
+{"id": "q37", "query": "What is the floor loading limit in the main warehouse?", "answerable": true, "expected": "5000 kilograms per square meter", "pages": ["SPEC-001 p.1"]}
+{"id": "q38", "query": "What is the particle limit for the ISO Class 5 cleanroom?", "answerable": true, "expected": "3520 particles of 0.5 micron per cubic meter", "pages": ["SPEC-002 p.1"]}
+{"id": "q39", "query": "What is the corporate VPN gateway address?", "answerable": true, "expected": "vpn.novadyne.example", "pages": ["IT-001 p.1"]}
+{"id": "q40", "query": "How long is email retained in the compliance archive?", "answerable": true, "expected": "7 years", "pages": ["IT-002 p.1"]}
+{"id": "a01", "query": "What is the maximum flow rate of the VX-900 pump?", "answerable": false, "adversarial_type": "false_premise", "note": "No VX-900 exists in corpus"}
+{"id": "a02", "query": "How do I configure the SC-50 for a 5 millisecond scan cycle?", "answerable": false, "adversarial_type": "false_premise", "note": "SC-50 is fixed at 10ms"}
+{"id": "a03", "query": "What is NovaDyne's current stock price?", "answerable": false, "adversarial_type": "off_topic", "note": "No financial market data in corpus"}
+{"id": "a04", "query": "How do I bake sourdough bread?", "answerable": false, "adversarial_type": "off_topic", "note": "Completely off-topic"}
+{"id": "a05", "query": "What is the capital of France?", "answerable": false, "adversarial_type": "off_topic", "note": "Completely off-topic"}
+{"id": "a06", "query": "How many vacation days do part-time contractors get?", "answerable": false, "adversarial_type": "near_miss", "note": "Corpus covers full-time employees only"}
+{"id": "a07", "query": "What is the torque spec for HT-700 gaskets?", "answerable": false, "adversarial_type": "false_premise", "note": "No HT-700 exists; HT-900 only"}
+{"id": "a08", "query": "Can I run the VX-400 on single-phase power?", "answerable": false, "adversarial_type": "near_miss", "note": "Manual specifies 400V 3-phase; single-phase not discussed"}
+{"id": "a09", "query": "What is the CEO's email address?", "answerable": false, "adversarial_type": "off_topic", "note": "Not in corpus"}
+{"id": "a10", "query": "How do I file a patent application?", "answerable": false, "adversarial_type": "off_topic", "note": "Not in corpus"}
+{"id": "a11", "query": "What color are LOTO locks for hydraulic energy?", "answerable": false, "adversarial_type": "false_premise", "note": "Only electrical/mechanical/pneumatic defined"}
+{"id": "a12", "query": "What is the warranty period for the VX-400?", "answerable": false, "adversarial_type": "near_miss", "note": "Warranty not covered in manual"}
+{"id": "a13", "query": "How do I reset the SC-50 after a firmware crash?", "answerable": false, "adversarial_type": "near_miss", "note": "Firmware crash recovery not documented"}
+{"id": "a14", "query": "What are the cafeteria lunch hours?", "answerable": false, "adversarial_type": "off_topic", "note": "Not in corpus"}
+{"id": "a15", "query": "What is the API endpoint for VPN status checks?", "answerable": false, "adversarial_type": "near_miss", "note": "Gateway address given; no API documented"}
+{"id": "a16", "query": "How do I dispose of used VX-400 seal kits?", "answerable": false, "adversarial_type": "near_miss", "note": "Disposal not in manual"}
+{"id": "a17", "query": "What is the IT support phone number?", "answerable": false, "adversarial_type": "off_topic", "note": "Not in corpus"}
+{"id": "a18", "query": "Does NovaDyne offer dental insurance?", "answerable": false, "adversarial_type": "near_miss", "note": "Benefits beyond leave not covered"}
+{"id": "a19", "query": "What is the maximum pressure of the VX-400 in PSI?", "answerable": false, "adversarial_type": "near_miss", "note": "Pressure given in bar only; conversion not stated"}
+{"id": "a20", "query": "Who is the safety manager I report spills to?", "answerable": false, "adversarial_type": "near_miss", "note": "Role mentioned, no name given"}
